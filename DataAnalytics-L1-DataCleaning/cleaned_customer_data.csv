@@ -1,0 +1,7 @@
+Customer_ID,Join_Date,Gender,Age,Income
+C101,2025-01-01,Male,28,55000.0
+C102,,Female,34,62000.0
+C103,,Male,31,62000.0
+C104,,Female,45,95000.0
+C105,2025-01-05,Female,31,70000.0
+C106,2025-01-06,Female,23,48000.0
